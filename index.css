@@ -1,0 +1,53 @@
+body {
+    background-image: url("station2.jpg");
+    background-size:cover;
+}
+
+
+h1 {
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: crimson;
+}
+
+h2 {
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color:forestgreen;
+}
+
+.container {
+    background-color: black;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    width: fit-content;
+    border-color: white;
+    border-radius: 2%;
+    border-width: 20px;
+    
+}
+
+#start-btn{
+    color: green;
+    background-color: black;
+    border-style: solid;
+    width: 150px;
+}
+#increment-btn{
+    color: red;
+    background-color: black;
+    border-style: solid;
+    width: 150px;
+}
+#reset-btn{
+    color: rgb(161, 137, 137);
+    background-color: black;
+    border-style: solid;
+    width: 150px;
+}
+
+p {
+    color: aliceblue;
+    font-size: 30px;
+}
